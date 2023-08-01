@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.vending-img,
+.chips-img,
+.choclates-img,
+.waffles-img {
+  width: 250px;
+}
